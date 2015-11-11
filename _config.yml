@@ -1,6 +1,6 @@
 name: dobesv
 favicon: null
-layout_spectrum: 0.9013969132211059
+layout_spectrum: 0.24777
 typography_spectrum: 0.33594825002364814
 title: 'Dobes Vandermeer - Computer Science, Software Engineering, Personal Development, Philosophy, and more'
 cta:
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#060608'
-    - '#965d1f'
-    - '#fafaf8'
-    - '#c3a187'
-    - '#464a56'
+    - '#eaf7ff'
+    - '#95d4ff'
+    - '#366730'
+    - '#000000'
+    - '#a2b865'
   brandStrength: 0.5
   lightness: 0.875
   saturation: 0.5
