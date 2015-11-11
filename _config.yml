@@ -1,0 +1,23 @@
+name: dobesv
+favicon: null
+layout_spectrum: 0.9013969132211059
+typography_spectrum: 0.33594825002364814
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.37817085604183376
+  lightness: 0.6564160641282797
+  saturation: 0.5620124354027212
+  rhythmicContrast: 0.6260989783331752
+purpose: []
