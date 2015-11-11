@@ -2,12 +2,13 @@ name: dobesv
 favicon: null
 layout_spectrum: 0.9013969132211059
 typography_spectrum: 0.33594825002364814
+title: 'Dobes Vandermeer - Computer Science, Software Engineering, Personal Development, Philosophy, and more'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-24340079-4
   facebook: null
   twitter: null
 opengraph:
